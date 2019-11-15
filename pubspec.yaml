@@ -14,7 +14,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_map: ^0.7.3
+  flutter_map: 
+    git:
+        url: git://github.com/sungazer-io/flutter_map.git
   latlong: ^0.6.1
 
 dev_dependencies:
